@@ -23,7 +23,9 @@ h1{
     margin-top: 200px;
     background-color: tomato;
     border: 2px solid skyblue;
+    border-radius: 2rem;
     position: relative;
+    text-align: center;
 }
 
 .btn-secondary {
