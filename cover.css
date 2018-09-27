@@ -5,6 +5,7 @@ body {
     background-size: cover;
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 h1{
@@ -16,14 +17,13 @@ h1{
     font-weight: bold;
     position: relative;
     margin-top:150px; 
-
 }
+
 .btn {
     margin-top: 200px;
     background-color: tomato;
     border: 2px solid skyblue;
     position: relative;
-    
 }
 
 .btn-secondary {
